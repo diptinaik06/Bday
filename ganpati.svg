@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Pastel Ganapati illustration</title>
+  <desc id="desc">A soft pastel symbolic Ganapati Bappa illustration with halo, lotus, and blessings.</desc>
+  <rect width="512" height="512" rx="72" fill="#fff9ef"/>
+  <circle cx="256" cy="214" r="154" fill="#ffe29a" opacity=".62"/>
+  <circle cx="256" cy="214" r="116" fill="#ffd6e8"/>
+  <path d="M166 210c-38-14-67-48-72-88 46-1 87 20 108 55M346 210c38-14 67-48 72-88-46-1-87 20-108 55" fill="#ded5ff"/>
+  <path d="M173 190c0-62 37-104 83-104s83 42 83 104v65c0 48-37 88-83 88s-83-40-83-88z" fill="#ffb8d7"/>
+  <path d="M231 254c20 14 32 31 32 56 0 32-22 54-52 54 40 23 92 9 112-29 16-31 4-65-24-87" fill="#ff78ad"/>
+  <circle cx="219" cy="207" r="12" fill="#392f45"/>
+  <circle cx="294" cy="207" r="12" fill="#392f45"/>
+  <path d="M216 258c23 18 58 18 81 0" fill="none" stroke="#392f45" stroke-width="12" stroke-linecap="round"/>
+  <path d="M210 118c7-35 25-59 46-59s39 24 46 59" fill="none" stroke="#8f79ee" stroke-width="18" stroke-linecap="round"/>
+  <path d="M160 386c50-47 142-47 192 0-48 54-144 54-192 0z" fill="#d8f8df"/>
+  <path d="M206 390c25-43 75-43 100 0-27 24-73 24-100 0z" fill="#69c8e9" opacity=".8"/>
+  <text x="256" y="456" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#8f79ee">Ganapati Bappa Morya</text>
+</svg>
